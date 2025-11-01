@@ -19,8 +19,8 @@ This script monitors the 'test' process and sends HTTP requests to a monitoring 
 
 1.  **Clone the repository:**
     ```bash
-    git clone <URL_ВАШЕГО_РЕПОЗИТОРИЯ>
-    cd <имя_вашего_репозитория>
+    git clone https://github.com/OrazmyratA/linux-process-monitor.git
+    cd linux-process-monitor
     ```
 
 2.  **Move the monitoring script to a system directory:**
